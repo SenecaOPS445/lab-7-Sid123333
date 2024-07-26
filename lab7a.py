@@ -2,7 +2,7 @@
 # Student ID: sshrestha83
 class Time:
     """Simple object type for time of the day.
-    data attributes: hour, minute, second
+    data attributes: hour, minute,second
     """
     def __init__(self,hour=12,minute=0,second=0):
         """constructor for time object""" 
